@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/form-submission-app/static/css/main.f855e6bc.css",
-    "main.js": "/form-submission-app/static/js/main.5eff2bd3.js",
+    "main.css": "/form-submission-app/static/css/main.e5a2314e.css",
+    "main.js": "/form-submission-app/static/js/main.b0afc3b6.js",
     "static/js/453.2c8ad889.chunk.js": "/form-submission-app/static/js/453.2c8ad889.chunk.js",
     "static/media/logo.svg": "/form-submission-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/form-submission-app/index.html",
-    "main.f855e6bc.css.map": "/form-submission-app/static/css/main.f855e6bc.css.map",
-    "main.5eff2bd3.js.map": "/form-submission-app/static/js/main.5eff2bd3.js.map",
+    "main.e5a2314e.css.map": "/form-submission-app/static/css/main.e5a2314e.css.map",
+    "main.b0afc3b6.js.map": "/form-submission-app/static/js/main.b0afc3b6.js.map",
     "453.2c8ad889.chunk.js.map": "/form-submission-app/static/js/453.2c8ad889.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.5eff2bd3.js"
+    "static/css/main.e5a2314e.css",
+    "static/js/main.b0afc3b6.js"
   ]
 }
