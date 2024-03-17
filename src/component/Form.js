@@ -93,7 +93,7 @@ function Form() {
             onChange={handleInputChange}
             className={state.passwordState?'passed':null}
             />
-        {<span style={{color:'red'}}>{state.emailState?null:'Password must be atleast 8 characters'}</span>}
+        {<span style={{color:'red'}}>{state.passwordState?null:'Password must be atleast 8 characters'}</span>}
         </span>
 
 
@@ -106,7 +106,7 @@ function Form() {
             onChange={handleInputChange}
             className={state.confirmPasswordState?'passed':null}
             />
-        {<span style={{color:'red'}}>{state.emailState?null:'Passwords do not match'}</span>}
+        {<span style={{color:'red'}}>{state.confirmPasswordState?null:'Passwords do not match'}</span>}
         </span>
         
 
